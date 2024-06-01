@@ -1,0 +1,1 @@
+This session is based on file oeprations in python. Welcome to the session all... Have an interactive session. This course is full stack web development using python.
